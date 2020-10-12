@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "uuid": "^8.3.0"
   },
-  "homepage": "http://malasia-415/.github.io/react-gh-pages",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
