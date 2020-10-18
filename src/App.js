@@ -59,7 +59,7 @@ class App extends Component {
         .then((problem) => {
           let newProblems = [...this.state.problems, problem]
           newProblems.shift()
-          console.log(newProblems)
+          newProblems = newProblems.filter(({problem}) => problem !== 'No available problems')
           this.setState({problems:[...newProblems]})
         })
         .catch(error => {
