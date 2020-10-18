@@ -1,4 +1,4 @@
-#Calorie Calc App
+# Calorie Calc App
 
 The name of this application is called Calorie Calc App
 
@@ -20,4 +20,4 @@ Here this app will allow you to make calculations of your calorie intake for eve
 
 The technologies used to build this a app are CSS, React.js, Node and PostgresSQL. 
 
-#Calorie Calc
+# Calorie Calc
